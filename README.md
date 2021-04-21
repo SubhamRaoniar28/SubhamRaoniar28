@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SubhamRaoniar28)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar)**
 
 - 📫 How to reach me **subham.raoniar@gmail.com**
 
