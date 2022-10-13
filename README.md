@@ -81,3 +81,6 @@ a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"
     <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwal">
 </a>
 <a href="https://github.com/Pranjal360Agarwal?tab=followers"><img src="https://img.shields.io/github/followers/Pranjal360Agarwal?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
