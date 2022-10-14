@@ -76,7 +76,7 @@ a href="#"><img width="60%" height="auto" src="https://github.com/abhisheknaiidu
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Views and Followers ❤
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwal">
 </a>
