@@ -1,4 +1,6 @@
-a href="#"><img width="60%" height="auto" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="150px"/></a>
+<div align="center" width="50">
+    
+<img src="https://github.com/Pranjal360Agarwal/Pranjal77Agarwal/blob/master/dev-working_rounded.gif" href="https://github.com/Pranjal77Agarwal" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjal Agarwal</h1>
 <h3 align="center">I'm a passionate Web Developer and Programmer from India.</h3>
