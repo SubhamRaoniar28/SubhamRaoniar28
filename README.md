@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" target="https://debjitpurohit.github.io/Debjits-World/" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:1000px ; height:380px " data-target="https://debjitpurohit.github.io/Debjits-World/">
-<h1 align="center">Hi 👋, I'm Pranjal Agarwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjal Agarwal</h1>
 <h3 align="center">A passionate Developer from India [India]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwalt&label=Profile%20views&color=0e75b6&style=flat" alt="Pranjal360Agarwal" /> </p>
