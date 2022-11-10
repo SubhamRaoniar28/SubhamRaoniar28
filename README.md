@@ -45,7 +45,6 @@
 <br/>
 
 <p align="center">
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
     <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
