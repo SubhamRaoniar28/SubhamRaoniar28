@@ -25,14 +25,24 @@
 <p>
   <b>Data</b><br/>
   <a href="https://www.mysql.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/mysql.svg"><img src="assets/icons/light/mysql.svg" alt="MySQL" title="MySQL" width="44" height="44"/></picture></a>
+  <a href="https://www.postgresql.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/postgresql.svg"><img src="assets/icons/light/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44"/></picture></a>
   <a href="https://firebase.google.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/firebase.svg"><img src="assets/icons/light/firebase.svg" alt="Firebase" title="Firebase" width="44" height="44"/></picture></a>
 </p>
 
 <p>
   <b>DevOps and tools</b><br/>
+  <a href="https://www.docker.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/docker.svg"><img src="assets/icons/light/docker.svg" alt="Docker" title="Docker" width="44" height="44"/></picture></a>
+  <a href="https://kubernetes.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/kubernetes.svg"><img src="assets/icons/light/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="44" height="44"/></picture></a>
   <a href="https://www.jenkins.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/jenkins.svg"><img src="assets/icons/light/jenkins.svg" alt="Jenkins" title="Jenkins" width="44" height="44"/></picture></a>
   <a href="https://git-scm.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/git.svg"><img src="assets/icons/light/git.svg" alt="Git" title="Git" width="44" height="44"/></picture></a>
   <a href="https://www.postman.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/postman.svg"><img src="assets/icons/light/postman.svg" alt="Postman" title="Postman" width="44" height="44"/></picture></a>
+</p>
+
+<p>
+  <b>AI</b><br/>
+  <a href="https://claude.com/product/claude-code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/claudecode.svg"><img src="assets/icons/light/claudecode.svg" alt="Claude Code" title="Claude Code" width="44" height="44"/></picture></a>
+  <a href="https://openai.com/codex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/codex.svg"><img src="assets/icons/light/codex.svg" alt="Codex" title="Codex" width="44" height="44"/></picture></a>
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/rag.svg"><img src="assets/icons/light/rag.svg" alt="RAG (retrieval-augmented generation)" title="RAG (retrieval-augmented generation)" width="44" height="44"/></picture></a>
 </p>
 
 <p>
