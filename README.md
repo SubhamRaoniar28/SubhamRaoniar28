@@ -62,7 +62,8 @@
   <a href="https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/dark/youtube.svg"><img src="assets/social/light/youtube.svg" alt="YouTube" height="40"/></picture></a>
 </p>
 
-## Views and followers
+<br/>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28" alt="Profile views"></a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub followers"></a>
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28&label=Profile%20views&color=087EA4&style=flat-square&abbreviated=true" alt="Profile views"/></a>
+</p>
