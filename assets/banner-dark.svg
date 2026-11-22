@@ -8,22 +8,22 @@
 .mono{font-family:"JBM",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:500}
 .role{font-size:25px;fill:#61DAFB}
 .place{font-size:17px;fill:#8B949E}
-.head{font-size:14px;fill:#8B949E}
-.status{font-size:14px;fill:#61DAFB;text-anchor:end;opacity:0;animation:fade .5s ease-out 1.9s forwards}
-.tick{font-size:12px;fill:#8B949E;text-anchor:middle}
-.span{font-size:14px;fill:#8B949E}
-.bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow .7s cubic-bezier(.2,.8,.2,1) forwards}
-@keyframes grow{to{transform:scaleX(1)}}
-@keyframes fade{to{opacity:1}}
-@media (prefers-reduced-motion:reduce){.bar{animation:none;transform:none}.status{animation:none;opacity:1}}
+.head{font-size:17px;fill:#8B949E}
+.status{font-size:17px;fill:#61DAFB;text-anchor:end;animation:fade .5s ease-out 1.9s backwards}
+.tick{font-size:13px;fill:#8B949E;text-anchor:middle}
+.span{font-size:16px;fill:#8B949E}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow .7s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes grow{from{transform:scaleX(0)}}
+@keyframes fade{from{opacity:0}}
+@media (prefers-reduced-motion:reduce){.bar,.status{animation:none}}
 </style>
 <rect x="1" y="1" width="1198" height="318" rx="16" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
 <text x="62" y="152" class="name">Subham Raoniar</text>
 <text x="66" y="204" class="mono role">Senior Backend Developer</text>
 <text x="66" y="240" class="mono place">Bangalore, India</text>
-<text x="700" y="66" class="mono head">trace GET /api/orders</text>
+<text x="672" y="66" class="mono head">trace GET /api/orders</text>
 <text x="1136" y="66" class="mono status">200 OK 184 ms</text>
-<line x1="846.0" y1="108" x2="846.0" y2="274" stroke="#30363D" stroke-dasharray="2 4"/><text x="846.0" y="98" class="mono tick">0 ms</text><line x1="924.8" y1="108" x2="924.8" y2="274" stroke="#30363D" stroke-dasharray="2 4"/><text x="924.8" y="98" class="mono tick">50 ms</text><line x1="1003.6" y1="108" x2="1003.6" y2="274" stroke="#30363D" stroke-dasharray="2 4"/><text x="1003.6" y="98" class="mono tick">100 ms</text><line x1="1082.4" y1="108" x2="1082.4" y2="274" stroke="#30363D" stroke-dasharray="2 4"/><text x="1082.4" y="98" class="mono tick">150 ms</text>
-<text x="700" y="133" class="mono span">api-gateway</text><text x="712" y="165" class="mono span">auth-service</text><text x="712" y="197" class="mono span">order-service</text><text x="724" y="229" class="mono span">postgres</text><text x="724" y="261" class="mono span">kafka.publish</text>
-<g filter="url(#glow)"><rect class="bar" style="animation-delay:0.25s" x="846.0" y="121.0" width="290.0" height="14" rx="3" fill="#61DAFB" fill-opacity="1"/><rect class="bar" style="animation-delay:0.53s" x="852.3" y="153.0" width="41.0" height="14" rx="3" fill="#61DAFB" fill-opacity="0.72"/><rect class="bar" style="animation-delay:0.81s" x="899.6" y="185.0" width="214.3" height="14" rx="3" fill="#61DAFB" fill-opacity="0.72"/><rect class="bar" style="animation-delay:1.09s" x="921.7" y="217.0" width="75.7" height="14" rx="3" fill="#61DAFB" fill-opacity="0.48"/><rect class="bar" style="animation-delay:1.37s" x="1019.4" y="249.0" width="63.0" height="14" rx="3" fill="#61DAFB" fill-opacity="0.48"/></g>
+<line x1="868.0" y1="108" x2="868.0" y2="283" stroke="#30363D" stroke-dasharray="2 4"/><text x="868.0" y="98" class="mono tick">0 ms</text><line x1="940.8" y1="108" x2="940.8" y2="283" stroke="#30363D" stroke-dasharray="2 4"/><text x="940.8" y="98" class="mono tick">50 ms</text><line x1="1013.7" y1="108" x2="1013.7" y2="283" stroke="#30363D" stroke-dasharray="2 4"/><text x="1013.7" y="98" class="mono tick">100 ms</text><line x1="1086.5" y1="108" x2="1086.5" y2="283" stroke="#30363D" stroke-dasharray="2 4"/><text x="1086.5" y="98" class="mono tick">150 ms</text>
+<text x="672" y="138" class="mono span">api-gateway</text><text x="686" y="171" class="mono span">auth-service</text><text x="686" y="204" class="mono span">order-service</text><text x="700" y="237" class="mono span">postgres</text><text x="700" y="270" class="mono span">kafka.publish</text>
+<g filter="url(#glow)"><rect class="bar" style="animation-delay:0.25s" x="868.0" y="124.0" width="268.0" height="16" rx="3" fill="#61DAFB" fill-opacity="1"/><rect class="bar" style="animation-delay:0.53s" x="873.8" y="157.0" width="37.9" height="16" rx="3" fill="#61DAFB" fill-opacity="0.72"/><rect class="bar" style="animation-delay:0.81s" x="917.5" y="190.0" width="198.1" height="16" rx="3" fill="#61DAFB" fill-opacity="0.72"/><rect class="bar" style="animation-delay:1.09s" x="937.9" y="223.0" width="69.9" height="16" rx="3" fill="#61DAFB" fill-opacity="0.48"/><rect class="bar" style="animation-delay:1.37s" x="1028.2" y="256.0" width="58.3" height="16" rx="3" fill="#61DAFB" fill-opacity="0.48"/></g>
 </svg>
