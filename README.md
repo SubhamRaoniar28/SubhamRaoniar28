@@ -13,21 +13,34 @@
 
 ## Stack
 
-<p align="left">
-  <a href="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="44" height="44"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="44" height="44"/></a>
-  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="44" height="44"/></a>
-  <a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="44" height="44"/></a>
-  <a href="https://expressjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/white"><img src="https://cdn.simpleicons.org/express/black" alt="Express" width="36" height="44"/></picture></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="44" height="44"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="44" height="44"/></a>
-  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="44" height="44"/></a>
-  <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="44" height="44"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="44" height="44"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="44" height="44"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="44" height="44"/></a>
-  <a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="44" height="44"/></a>
+<p>
+  <b>Backend</b><br/>
+  <a href="https://www.java.com"><img src="assets/icons/java.svg" alt="Java" title="Java" width="44" height="44"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="assets/icons/springboot.svg" alt="Spring Boot" title="Spring Boot" width="44" height="44"/></a>
+  <a href="https://www.python.org"><img src="assets/icons/python.svg" alt="Python" title="Python" width="44" height="44"/></a>
+  <a href="https://nodejs.org"><img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="44" height="44"/></a>
+  <a href="https://expressjs.com"><img src="assets/icons/express.svg" alt="Express" title="Express" width="44" height="44"/></a>
+</p>
+
+<p>
+  <b>Data</b><br/>
+  <a href="https://www.mysql.com"><img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="44" height="44"/></a>
+  <a href="https://firebase.google.com"><img src="assets/icons/firebase.svg" alt="Firebase" title="Firebase" width="44" height="44"/></a>
+</p>
+
+<p>
+  <b>DevOps and tools</b><br/>
+  <a href="https://www.jenkins.io"><img src="assets/icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="44" height="44"/></a>
+  <a href="https://git-scm.com"><img src="assets/icons/git.svg" alt="Git" title="Git" width="44" height="44"/></a>
+  <a href="https://www.postman.com"><img src="assets/icons/postman.svg" alt="Postman" title="Postman" width="44" height="44"/></a>
+</p>
+
+<p>
+  <b>Frontend</b><br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" alt="HTML" title="HTML" width="44" height="44"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" alt="CSS" title="CSS" width="44" height="44"/></a>
+  <a href="https://getbootstrap.com"><img src="assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="44" height="44"/></a>
 </p>
 
 ## GitHub stats
