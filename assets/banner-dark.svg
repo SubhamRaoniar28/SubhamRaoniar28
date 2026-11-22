@@ -2,6 +2,8 @@
 <title id="t">Subham Raoniar, Senior Backend Developer, Bangalore, India. Illustration of a developer typing code at a desk.</title>
 <defs><clipPath id="panel"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
 <linearGradient id="screenglow" gradientUnits="userSpaceOnUse" x1="980" y1="0" x2="818" y2="0"><stop offset="0" stop-color="#61DAFB" stop-opacity="0.16"/><stop offset="1" stop-color="#61DAFB" stop-opacity="0"/></linearGradient>
+<linearGradient id="lampcone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD47A" stop-opacity="0.13"/><stop offset="1" stop-color="#FFD47A" stop-opacity="0"/></linearGradient>
+<radialGradient id="deskpool" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFD47A" stop-opacity="0.55"/><stop offset="1" stop-color="#FFD47A" stop-opacity="0"/></radialGradient>
 <radialGradient id="lampglow" cx="0.5" cy="0" r="1"><stop offset="0" stop-color="#FFD47A" stop-opacity="0.1"/><stop offset="0.65" stop-color="#FFD47A" stop-opacity="0"/></radialGradient></defs>
 <style>
 @font-face{font-family:"BG";font-weight:700;src:url(data:font/woff2;base64,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) format("woff2")}
@@ -58,6 +60,7 @@
 <ellipse cx="673" cy="305" rx="26" ry="4" fill="#0D1117"/>
 <ellipse cx="1155" cy="313" rx="16" ry="3" fill="#0D1117"/>
 <ellipse cx="900" cy="48" rx="120" ry="150" fill="url(#lampglow)"/>
+<!--ITEM1--><polygon points="887,47 913,47 1000,222 815,222" fill="url(#lampcone)"/><!--/ITEM1-->
 <line x1="900" y1="0" x2="900" y2="30" stroke="#2D333B" stroke-width="2"/>
 <path d="M882 46 Q884 30 900 30 Q916 30 918 46 Z" fill="#2D333B"/>
 <rect x="895" y="45" width="10" height="4" rx="2" fill="#FFD47A"/>
@@ -73,6 +76,7 @@
 <rect x="730" y="290" width="84" height="6" rx="3" fill="#21262D"/>
 <circle cx="736" cy="299" r="5" fill="#21262D"/><circle cx="808" cy="299" r="5" fill="#21262D"/>
 <rect x="850" y="222" width="320" height="10" rx="4" fill="#30363D"/>
+<!--ITEM1--><ellipse cx="910" cy="223" rx="78" ry="6" fill="url(#deskpool)"/><!--/ITEM1-->
 <rect x="1150" y="232" width="10" height="81" fill="#30363D"/>
 <g class="breath"><ellipse cx="1004" cy="296" rx="26" ry="11" fill="#D08A4E"/>
 <path d="M992 287 q6 -3 12 0" fill="none" stroke="#A0632F" stroke-width="2.5" stroke-linecap="round"/>
