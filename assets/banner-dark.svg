@@ -39,9 +39,9 @@
 @keyframes flap{to{transform:scaleY(.35)}}
 .mote{opacity:0;animation-name:mote;animation-timing-function:ease-in-out;animation-iteration-count:infinite}
 @keyframes mote{0%{opacity:0;transform:translate(0,0)}30%{opacity:.75}70%{opacity:.55}100%{opacity:0;transform:translate(7px,-14px)}}
-.cc{animation:ccycle 10s ease-in-out infinite}.cm{opacity:0;animation:mcycle 10s ease-in-out infinite}
-@keyframes ccycle{0%,38%{opacity:1}50%,88%{opacity:0}100%{opacity:1}}
-@keyframes mcycle{0%,38%{opacity:0}50%,88%{opacity:1}100%{opacity:0}}
+.cc{animation:ccycle 8s ease-in-out infinite}.cm{opacity:0;animation:mcycle 8s ease-in-out infinite}
+@keyframes ccycle{0%,37.5%{opacity:1}50%,87.5%{opacity:0}100%{opacity:1}}
+@keyframes mcycle{0%,37.5%{opacity:0}50%,87.5%{opacity:1}100%{opacity:0}}
 .zz{animation:zz 3.6s ease-out infinite}.z2{animation-delay:1.2s}
 @keyframes twinkle{50%{opacity:.25}}
 @keyframes drift{from{transform:translateX(-50px)}to{transform:translateX(170px)}}
