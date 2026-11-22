@@ -65,5 +65,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28&label=Profile%20views&color=087EA4&style=flat-square&abbreviated=true" alt="Profile views"/></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28&label=Profile%20views&color=087EA4&style=flat-square" alt="Profile views"/></a>
+  <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=flat-square&color=087EA4&labelColor=555555&logo=github" alt="GitHub followers"/></a>
 </p>
