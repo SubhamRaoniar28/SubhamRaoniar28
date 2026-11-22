@@ -98,7 +98,7 @@ def fetch(user, token):
 
     cc = u["contributionsCollection"]
     return {
-        "stars": sum(r["stargazerCount"] for r in repos if not r["isFork"]),
+        "stars": sum(r["stargazerCount"] for r in repos),  # all owned repos, forks included
         "commits": cc["totalCommitContributions"],
         "prs": u["pullRequests"]["totalCount"],
         "issues": u["issues"]["totalCount"],
