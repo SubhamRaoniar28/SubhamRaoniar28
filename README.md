@@ -5,8 +5,8 @@
 
 ## About me
 
-- Currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-- Currently learning **Data Structures and Algorithms**
+- Currently working on $\color{#4493F8}\textsf{\textbf{Pomodoro App}}$
+- Currently learning **Retrieval Augmented Generation (RAG) with Spring AI**
 - Looking to collaborate on **open-source projects**
 - Reach me on **[LinkedIn](https://www.linkedin.com/in/subham-raoniar/)**
 - Fun fact: I play games and go to the gym very often
