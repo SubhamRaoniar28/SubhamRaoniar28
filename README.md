@@ -5,7 +5,7 @@
 
 ## About me
 
-- Currently working on $\color{#4493F8}\textsf{\textbf{Pomodoro App}}$
+- Currently working on **[Pomodoro App](#about-me)**
 - Currently learning **Retrieval Augmented Generation (RAG) with Spring AI**
 - Looking to collaborate on **open-source projects**
 - Reach me on **[LinkedIn](https://www.linkedin.com/in/subham-raoniar/)**
