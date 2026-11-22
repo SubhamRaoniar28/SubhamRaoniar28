@@ -46,12 +46,12 @@
 ## GitHub stats
 
 <p align="left">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9"><img alt="GitHub stats for Subham Raoniar" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=00000000&title_color=087EA4&icon_color=087EA4&text_color=57606A"/></picture></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=6&hide=html%2Ccss%2Cscss&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=6&hide=html%2Ccss%2Cscss&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=087EA4&text_color=57606A"/></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats/dark/stats.svg"><img alt="GitHub stats for Subham Raoniar" src="assets/stats/light/stats.svg"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats/dark/languages.svg"><img alt="Most used languages" src="assets/stats/light/languages.svg"/></picture>
 </p>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SubhamRaoniar28&hide_border=true&background=00000000&ring=00E7FF&fire=00E7FF&currStreakNum=00E7FF&sideNums=00E7FF&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D"><img alt="Contribution streak for Subham Raoniar" src="https://streak-stats.demolab.com/?user=SubhamRaoniar28&hide_border=true&background=00000000&ring=087EA4&fire=087EA4&currStreakNum=087EA4&sideNums=087EA4&currStreakLabel=087EA4&sideLabels=57606A&dates=6E7681&stroke=D0D7DE"/></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats/dark/streak.svg"><img alt="Contribution streak for Subham Raoniar" src="assets/stats/light/streak.svg"/></picture>
 </p>
 
 ## Connect
