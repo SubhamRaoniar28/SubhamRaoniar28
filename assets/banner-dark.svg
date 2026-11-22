@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t">
 <title id="t">Subham Raoniar, Senior Backend Developer, Bangalore, India. Illustration of a developer typing code at a desk.</title>
 <defs><clipPath id="panel"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
-<linearGradient id="screenglow" gradientUnits="userSpaceOnUse" x1="932" y1="0" x2="818" y2="0"><stop offset="0" stop-color="#61DAFB" stop-opacity="0.16"/><stop offset="1" stop-color="#61DAFB" stop-opacity="0"/></linearGradient>
+<linearGradient id="screenglow" gradientUnits="userSpaceOnUse" x1="980" y1="0" x2="818" y2="0"><stop offset="0" stop-color="#61DAFB" stop-opacity="0.16"/><stop offset="1" stop-color="#61DAFB" stop-opacity="0"/></linearGradient>
 <radialGradient id="lampglow" cx="0.5" cy="0" r="1"><stop offset="0" stop-color="#FFD47A" stop-opacity="0.1"/><stop offset="0.65" stop-color="#FFD47A" stop-opacity="0"/></radialGradient></defs>
 <style>
 @font-face{font-family:"BG";font-weight:700;src:url(data:font/woff2;base64,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) format("woff2")}
@@ -51,13 +51,14 @@
 <circle cx="736" cy="299" r="5" fill="#21262D"/><circle cx="808" cy="299" r="5" fill="#21262D"/>
 <rect x="850" y="222" width="320" height="10" rx="4" fill="#30363D"/>
 <rect x="1150" y="232" width="10" height="81" fill="#30363D"/>
-<rect x="1004" y="196" width="18" height="20" fill="#2D333B"/>
-<rect x="980" y="214" width="66" height="8" rx="4" fill="#2D333B"/>
-<rect x="932" y="70" width="190" height="128" rx="10" fill="#2D333B"/>
-<rect x="942" y="80" width="170" height="108" rx="5" fill="#0D1117"/>
-<rect class="ln" style="animation-name:ln0" x="956" y="92" width="70" height="6" rx="3" fill="#D2A8FF"/><rect class="ln" style="animation-name:ln1" x="956" y="105" width="54" height="6" rx="3" fill="#61DAFB"/><rect class="ln" style="animation-name:ln2" x="970" y="118" width="92" height="6" rx="3" fill="#C9D1D9"/><rect class="ln" style="animation-name:ln3" x="970" y="131" width="64" height="6" rx="3" fill="#FFA657"/><rect class="ln" style="animation-name:ln4" x="984" y="144" width="78" height="6" rx="3" fill="#61DAFB"/><rect class="ln" style="animation-name:ln5" x="984" y="157" width="46" height="6" rx="3" fill="#8B949E"/><rect class="ln" style="animation-name:ln6" x="970" y="170" width="36" height="6" rx="3" fill="#D2A8FF"/>
-<rect class="cursor" x="956" y="182" width="3" height="9" fill="#61DAFB"/>
-<polygon points="932,84 932,192 818,146 818,112" fill="url(#screenglow)"/>
+<rect x="1040" y="180" width="14" height="36" fill="#22272E"/>
+<rect x="1012" y="214" width="72" height="8" rx="4" fill="#2D333B"/>
+<polygon points="1098,70 1110,76 1110,198 1098,204" fill="#22272E" stroke="#22272E" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="972,94 1098,70 1098,204 972,182" fill="#2D333B" stroke="#2D333B" stroke-width="10" stroke-linejoin="round"/>
+<polygon points="980.0,101.0 1090.0,80.0 1090.0,194.0 980.0,175.0" fill="#0D1117" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+<polygon class="ln" style="animation-name:ln0" points="989.1,107.9 1034.4,101.0 1034.4,105.4 989.1,111.4" fill="#D2A8FF" stroke="#D2A8FF" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln1" points="989.1,117.2 1024.0,113.4 1024.0,117.6 989.1,120.7" fill="#61DAFB" stroke="#61DAFB" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln2" points="998.1,125.9 1057.6,122.1 1057.6,126.9 998.1,129.6" fill="#C9D1D9" stroke="#C9D1D9" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln3" points="998.1,135.6 1039.5,134.8 1039.5,139.2 998.1,139.3" fill="#FFA657" stroke="#FFA657" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln4" points="1007.2,145.5 1057.6,146.8 1057.6,151.5 1007.2,149.4" fill="#61DAFB" stroke="#61DAFB" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln5" points="1007.2,155.6 1036.9,157.7 1036.9,162.0 1007.2,159.5" fill="#8B949E" stroke="#8B949E" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln6" points="998.1,164.7 1021.4,167.3 1021.4,171.4 998.1,168.4" fill="#D2A8FF" stroke="#D2A8FF" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon class="cursor" points="989.1,172.3 991.0,172.6 991.0,179.1 989.1,178.7" fill="#61DAFB"/>
+<polygon points="980,105 980,171 818,146 818,112" fill="url(#screenglow)"/>
 <rect x="1126" y="200" width="20" height="22" rx="3" fill="#E6EDF3" stroke="#30363D"/>
 <path d="M1146 205 h4 a5 5 0 0 1 0 10 h-4" fill="none" stroke="#30363D" stroke-width="2.5"/>
 <path class="steam" d="M1132 194 q-4 -6 0 -12 q4 -6 0 -12" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/>
@@ -67,10 +68,10 @@
 <path d="M790 170 L826 204 L880 208" fill="none" stroke="#1858BE" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="884" cy="208" r="6" fill="#C98D6C"/>
 </g>
-<path d="M758 230 H872 Q884 230 884 242 V250 H758 Z" fill="#3D444D"/>
-<rect x="868" y="242" width="16" height="56" rx="6" fill="#3D444D"/>
+<path d="M754 226 H872 Q884 226 884 238 V244 H754 Z" fill="#3D444D"/>
+<rect x="868" y="234" width="16" height="64" rx="6" fill="#3D444D"/>
 <rect x="866" y="293" width="38" height="11" rx="5.5" fill="#2D333B"/>
-<path d="M746 250 L752 182 Q756 158 780 156 L796 158 Q814 162 812 186 L808 250 Z" fill="#1F6FEB"/>
+<path d="M746 243 L752 182 Q756 158 780 156 L796 158 Q814 162 812 186 L810 243 Z" fill="#1F6FEB"/>
 <g class="head">
 <rect x="788" y="140" width="13" height="20" rx="5" fill="#C98D6C"/>
 <circle cx="801" cy="124" r="22" fill="#E2A988"/>
