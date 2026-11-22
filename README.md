@@ -57,9 +57,9 @@
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://x.com/subhamraoniar"><img src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="X"/></a>
-  <a href="https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/subham-raoniar/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/dark/linkedin.svg"><img src="assets/social/light/linkedin.svg" alt="LinkedIn" height="40"/></picture></a>
+  <a href="https://x.com/subhamraoniar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/dark/x.svg"><img src="assets/social/light/x.svg" alt="X" height="40"/></picture></a>
+  <a href="https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/dark/youtube.svg"><img src="assets/social/light/youtube.svg" alt="YouTube" height="40"/></picture></a>
 </p>
 
 ## Views and followers
