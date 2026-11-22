@@ -5,7 +5,6 @@
 <linearGradient id="lampcone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD47A" stop-opacity="0"/><stop offset="1" stop-color="#FFD47A" stop-opacity="0"/></linearGradient>
 <radialGradient id="deskpool" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFD47A" stop-opacity="0"/><stop offset="1" stop-color="#FFD47A" stop-opacity="0"/></radialGradient>
 <radialGradient id="vignette" cx="0.55" cy="0.5" r="0.72"><stop offset="0.55" stop-color="#010409" stop-opacity="0"/><stop offset="1" stop-color="#010409" stop-opacity="0"/></radialGradient>
-<linearGradient id="winlight" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD98A" stop-opacity="0.3"/><stop offset="1" stop-color="#FFD98A" stop-opacity="0"/></linearGradient>
 <radialGradient id="lampglow" cx="0.5" cy="0" r="1"><stop offset="0" stop-color="#FFD47A" stop-opacity="0.0"/><stop offset="0.65" stop-color="#FFD47A" stop-opacity="0"/></radialGradient></defs>
 <style>
 @font-face{font-family:"BG";font-weight:700;src:url(data:font/woff2;base64,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) format("woff2")}
@@ -27,6 +26,8 @@
 .breath{transform-box:fill-box;transform-origin:center bottom;animation:breathe 3.6s ease-in-out infinite}
 .tail{transform-box:fill-box;transform-origin:left bottom;animation:swish 2.8s ease-in-out infinite alternate}
 .bonsai{transform-box:fill-box;transform-origin:center bottom;animation:sway 6s ease-in-out infinite alternate}
+.toast{animation:toast 8s ease-out infinite}
+@keyframes toast{0%,79%{opacity:0;transform:translateY(4px)}82%,94%{opacity:1;transform:none}98%,100%{opacity:0;transform:none}}
 .zz{animation:zz 3.6s ease-out infinite}.z2{animation-delay:1.2s}
 @keyframes twinkle{50%{opacity:.25}}
 @keyframes drift{from{transform:translateX(-50px)}to{transform:translateX(170px)}}
@@ -48,14 +49,13 @@
 <rect x="1" y="1" width="1198" height="318" rx="16" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5"/>
 <defs><clipPath id="win"><rect x="552" y="60" width="160" height="110" rx="3"/></clipPath>
 <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9FD4FF"/><stop offset="1" stop-color="#E1F1FF"/></linearGradient>
-<mask id="moon"><rect x="552" y="60" width="160" height="110" fill="#000"/><circle cx="590" cy="90" r="13" fill="#fff"/><circle cx="597" cy="84" r="12" fill="#000"/></mask></defs>
+<mask id="moon"><rect x="552" y="60" width="160" height="110" fill="#000"/><circle cx="674" cy="90" r="13" fill="#fff"/><circle cx="681" cy="84" r="12" fill="#000"/></mask></defs>
 <rect x="552" y="60" width="160" height="110" rx="3" fill="url(#sky)"/>
-<g clip-path="url(#win)"><circle cx="590" cy="90" r="12" fill="#FFD47A"/><g class="cloud"><path d="M566 144 a9 9 0 0 1 16 -7 a12 12 0 0 1 21 5 a7 7 0 0 1 2 14 h-35 a7 7 0 0 1 -4 -12 z" fill="#FFFFFF"/></g></g>
+<g clip-path="url(#win)"><circle cx="672" cy="90" r="12" fill="#FFD47A"/><g class="cloud"><path d="M566 144 a9 9 0 0 1 16 -7 a12 12 0 0 1 21 5 a7 7 0 0 1 2 14 h-35 a7 7 0 0 1 -4 -12 z" fill="#FFFFFF"/></g></g>
 <rect x="552" y="60" width="160" height="110" rx="3" fill="none" stroke="#C9D1D9" stroke-width="6"/>
 <line x1="632" y1="60" x2="632" y2="170" stroke="#C9D1D9" stroke-width="5"/>
 <line x1="552" y1="115" x2="712" y2="115" stroke="#C9D1D9" stroke-width="5"/>
 <rect x="543" y="170" width="178" height="8" rx="4" fill="#C9D1D9"/>
-<!--ITEM4--><g><polygon points="552,178 712,178 800,306 620,306" fill="url(#winlight)"/><line x1="632" y1="178" x2="710" y2="306" stroke="#F6F8FA" stroke-width="5" stroke-opacity=".85"/><line x1="586" y1="242" x2="756" y2="242" stroke="#F6F8FA" stroke-width="5" stroke-opacity=".85"/></g><!--/ITEM4-->
 <text x="62" y="152" class="name">Subham Raoniar</text>
 <text x="66" y="204" class="mono role">Senior Backend Developer</text>
 <text x="66" y="240" class="mono place">Bangalore, India</text>
@@ -105,6 +105,11 @@
 
 <polygon class="ln" style="animation-name:ln0" points="989.1,107.9 1034.4,101.0 1034.4,105.4 989.1,111.4" fill="#D2A8FF" stroke="#D2A8FF" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln1" points="989.1,117.2 1024.0,113.4 1024.0,117.6 989.1,120.7" fill="#61DAFB" stroke="#61DAFB" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln2" points="998.1,125.9 1057.6,122.1 1057.6,126.9 998.1,129.6" fill="#C9D1D9" stroke="#C9D1D9" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln3" points="998.1,135.6 1039.5,134.8 1039.5,139.2 998.1,139.3" fill="#FFA657" stroke="#FFA657" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln4" points="1007.2,145.5 1057.6,146.8 1057.6,151.5 1007.2,149.4" fill="#61DAFB" stroke="#61DAFB" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln5" points="1007.2,155.6 1036.9,157.7 1036.9,162.0 1007.2,159.5" fill="#8B949E" stroke="#8B949E" stroke-width="1.5" stroke-linejoin="round"/><polygon class="ln" style="animation-name:ln6" points="998.1,164.7 1021.4,167.3 1021.4,171.4 998.1,168.4" fill="#D2A8FF" stroke="#D2A8FF" stroke-width="1.5" stroke-linejoin="round"/>
 <polygon class="cursor" points="989.1,172.3 991.0,172.6 991.0,179.1 989.1,178.7" fill="#61DAFB"/>
+<!--ITEM6--><g transform="translate(1019.6 169.9) skewY(7.0)"><g class="toast">
+<rect x="0" y="0" width="64" height="11" rx="5.5" fill="#238636"/>
+<path d="M5 5.7 l2 2 l3.8 -4.2" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="13.5" y="7.9" class="mono" style="font-size:6.6px;fill:#FFFFFF">build passed</text>
+</g></g><!--/ITEM6-->
 
 <rect x="950" y="200" width="20" height="22" rx="3" fill="#FFFFFF" stroke="#D0D7DE"/>
 <path d="M970 205 h4 a5 5 0 0 1 0 10 h-4" fill="none" stroke="#D0D7DE" stroke-width="2.5"/>
