@@ -15,32 +15,32 @@
 
 <p>
   <b>Backend</b><br/>
-  <a href="https://www.java.com"><img src="assets/icons/java.svg" alt="Java" title="Java" width="44" height="44"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="assets/icons/springboot.svg" alt="Spring Boot" title="Spring Boot" width="44" height="44"/></a>
-  <a href="https://www.python.org"><img src="assets/icons/python.svg" alt="Python" title="Python" width="44" height="44"/></a>
-  <a href="https://nodejs.org"><img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="44" height="44"/></a>
-  <a href="https://expressjs.com"><img src="assets/icons/express.svg" alt="Express" title="Express" width="44" height="44"/></a>
+  <a href="https://www.java.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/java.svg"><img src="assets/icons/light/java.svg" alt="Java" title="Java" width="44" height="44"/></picture></a>
+  <a href="https://spring.io/projects/spring-boot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/springboot.svg"><img src="assets/icons/light/springboot.svg" alt="Spring Boot" title="Spring Boot" width="44" height="44"/></picture></a>
+  <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/python.svg"><img src="assets/icons/light/python.svg" alt="Python" title="Python" width="44" height="44"/></picture></a>
+  <a href="https://nodejs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/nodejs.svg"><img src="assets/icons/light/nodejs.svg" alt="Node.js" title="Node.js" width="44" height="44"/></picture></a>
+  <a href="https://expressjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/express.svg"><img src="assets/icons/light/express.svg" alt="Express" title="Express" width="44" height="44"/></picture></a>
 </p>
 
 <p>
   <b>Data</b><br/>
-  <a href="https://www.mysql.com"><img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="44" height="44"/></a>
-  <a href="https://firebase.google.com"><img src="assets/icons/firebase.svg" alt="Firebase" title="Firebase" width="44" height="44"/></a>
+  <a href="https://www.mysql.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/mysql.svg"><img src="assets/icons/light/mysql.svg" alt="MySQL" title="MySQL" width="44" height="44"/></picture></a>
+  <a href="https://firebase.google.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/firebase.svg"><img src="assets/icons/light/firebase.svg" alt="Firebase" title="Firebase" width="44" height="44"/></picture></a>
 </p>
 
 <p>
   <b>DevOps and tools</b><br/>
-  <a href="https://www.jenkins.io"><img src="assets/icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="44" height="44"/></a>
-  <a href="https://git-scm.com"><img src="assets/icons/git.svg" alt="Git" title="Git" width="44" height="44"/></a>
-  <a href="https://www.postman.com"><img src="assets/icons/postman.svg" alt="Postman" title="Postman" width="44" height="44"/></a>
+  <a href="https://www.jenkins.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/jenkins.svg"><img src="assets/icons/light/jenkins.svg" alt="Jenkins" title="Jenkins" width="44" height="44"/></picture></a>
+  <a href="https://git-scm.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/git.svg"><img src="assets/icons/light/git.svg" alt="Git" title="Git" width="44" height="44"/></picture></a>
+  <a href="https://www.postman.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/postman.svg"><img src="assets/icons/light/postman.svg" alt="Postman" title="Postman" width="44" height="44"/></picture></a>
 </p>
 
 <p>
   <b>Frontend</b><br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" alt="HTML" title="HTML" width="44" height="44"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" alt="CSS" title="CSS" width="44" height="44"/></a>
-  <a href="https://getbootstrap.com"><img src="assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="44" height="44"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/javascript.svg"><img src="assets/icons/light/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44"/></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/html.svg"><img src="assets/icons/light/html.svg" alt="HTML" title="HTML" width="44" height="44"/></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/css.svg"><img src="assets/icons/light/css.svg" alt="CSS" title="CSS" width="44" height="44"/></picture></a>
+  <a href="https://getbootstrap.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/bootstrap.svg"><img src="assets/icons/light/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="44" height="44"/></picture></a>
 </p>
 
 ## GitHub stats
