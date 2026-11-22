@@ -174,15 +174,14 @@ def stats_card(data, t, name):
     rows = [("star", "Total stars earned", data["stars"]),
             ("git-commit", "Total commits (last year)", data["commits"]),
             ("git-pull-request", "Total PRs", data["prs"]),
-            ("issue-opened", "Total issues", data["issues"]),
-            ("repo", "Contributed to (last year)", data["contributed"])]
+            ("issue-opened", "Total issues", data["issues"])]
     body = f'<text x="25" y="36" font-size="18" font-weight="600" fill="{t["accent"]}">{escape(name)}\'s GitHub stats</text>'
     for i, (ic, label, val) in enumerate(rows):
         y = 70 + i * 25
         body += (f'<g class="in" style="animation-delay:{0.1 + i * 0.1:.1f}s">{icon(ic, 25, y - 12, t["accent"])}'
                  f'<text x="50" y="{y}" font-size="14" font-weight="600" fill="{t["text"]}">{label}:</text>'
                  f'<text x="270" y="{y}" font-size="14" font-weight="700" fill="{t["text"]}">{val:,}</text></g>')
-    return svg(400, 195, f"{name}'s GitHub stats", body)
+    return svg(400, 70 + len(rows) * 25, f"{name}'s GitHub stats", body)
 
 
 def langs_card(data, t):
@@ -209,27 +208,32 @@ def langs_card(data, t):
 
 
 def streak_card(data, t):
+    """Total contributions and longest streak always; the current streak only while one is running."""
     s = streaks(data["days"])
     a, txt, mut, grid = t["streak"], t["text"], t["muted"], t["grid"]
-    cur_range = (fmt(s["cur_start"], False) if s["current"] == 0 or s["cur_start"] == s["cur_end"]
-                 else f'{fmt(s["cur_start"], False)} - {fmt(s["cur_end"], False)}')
-    if s["current"] == 0:
-        cur_range = fmt(s["cur_end"] + dt.timedelta(days=1), False)
-    long_range = f'{fmt(s["long_start"])} - {fmt(s["long_end"])}' if s["long_start"] else "No streak yet"
-    def col(cx, num, label, sub, accent_label=False, delay=0.1):
-        return (f'<g class="in" style="animation-delay:{delay}s">'
-                f'<text x="{cx}" y="79" text-anchor="middle" font-size="28" font-weight="700" fill="{a}">{num:,}</text>'
-                f'<text x="{cx}" y="{140 if accent_label else 116}" text-anchor="middle" font-size="14" '
-                f'font-weight="{700 if accent_label else 400}" fill="{a if accent_label else txt}">{label}</text>'
-                f'<text x="{cx}" y="{164 if accent_label else 145}" text-anchor="middle" font-size="12" fill="{mut}">{sub}</text></g>')
-    body = (f'<line x1="165" y1="28" x2="165" y2="170" stroke="{grid}"/><line x1="330" y1="28" x2="330" y2="170" stroke="{grid}"/>'
-            + col(82.5, s["total"], "Total contributions", f'{fmt(s["first"])} - Present', delay=0.1)
-            + '<mask id="ring"><rect width="495" height="195" fill="#fff"/><rect x="232" y="16" width="31" height="31" fill="#000"/></mask>'
-            + f'<circle cx="247.5" cy="71" r="40" fill="none" stroke="{a}" stroke-width="5" mask="url(#ring)"/>'
-            + icon("flame", 238.5, 22, a, 18)
-            + col(247.5, s["current"], "Current streak", cur_range, accent_label=True, delay=0.2)
-            + col(412.5, s["longest"], "Longest streak", long_range, delay=0.3))
-    return svg(495, 195, "Contribution streak", body)
+    h = 165
+
+    def col(cx, num, label, sub=None, accent_label=False):
+        out = (f'<text x="{cx}" y="79" text-anchor="middle" font-size="28" font-weight="700" fill="{a}">{num:,}</text>'
+               f'<text x="{cx}" y="{140 if accent_label else 116}" text-anchor="middle" font-size="14" '
+               f'font-weight="{700 if accent_label else 400}" fill="{a if accent_label else txt}">{label}</text>')
+        if sub:
+            out += f'<text x="{cx}" y="145" text-anchor="middle" font-size="12" fill="{mut}">{sub}</text>'
+        return out
+
+    total = col(82.5, s["total"], "Total contributions", f'{fmt(s["first"])} - Present')
+    if s["current"] > 0:
+        body = (f'<line x1="165" y1="28" x2="165" y2="{h - 15}" stroke="{grid}"/>'
+                f'<line x1="330" y1="28" x2="330" y2="{h - 15}" stroke="{grid}"/>' + total
+                + f'<mask id="ring"><rect width="495" height="{h}" fill="#fff"/><rect x="232" y="16" width="31" height="31" fill="#000"/></mask>'
+                + f'<circle cx="247.5" cy="71" r="40" fill="none" stroke="{a}" stroke-width="5" mask="url(#ring)"/>'
+                + icon("flame", 238.5, 22, a, 18)
+                + col(247.5, s["current"], "Current streak", accent_label=True)
+                + col(412.5, s["longest"], "Longest streak"))
+        return svg(495, h, "Contribution streak", body)
+    body = (f'<line x1="165" y1="28" x2="165" y2="{h - 15}" stroke="{grid}"/>' + total
+            + col(247.5, s["longest"], "Longest streak"))
+    return svg(330, h, "Contributions and longest streak", body)
 
 
 def main():
