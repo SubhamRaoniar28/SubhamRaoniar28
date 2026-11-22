@@ -33,12 +33,12 @@
 ## GitHub stats
 
 <p align="left">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub stats for Subham Raoniar" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9B7BF0&icon_color=3FB68B&text_color=7D8590" height="165"/></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=6&hide=html,css,scss&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=9B7BF0&text_color=7D8590" height="165"/></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub stats for Subham Raoniar" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4493F8&icon_color=3FB68B&text_color=7D8590" height="165"/></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=6&hide=html,css,scss&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=4493F8&text_color=7D8590" height="165"/></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Contribution streak for Subham Raoniar" src="https://streak-stats.demolab.com/?user=SubhamRaoniar28&hide_border=true&background=00000000&ring=9B7BF0&fire=3FB68B&currStreakNum=9B7BF0&sideNums=9B7BF0&currStreakLabel=9B7BF0&sideLabels=7D8590&dates=7D8590&stroke=7D859040"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Contribution streak for Subham Raoniar" src="https://streak-stats.demolab.com/?user=SubhamRaoniar28&hide_border=true&background=00000000&ring=4493F8&fire=3FB68B&currStreakNum=4493F8&sideNums=4493F8&currStreakLabel=4493F8&sideLabels=7D8590&dates=7D8590&stroke=7D859040"/></a>
 </p>
 
 ## Connect
